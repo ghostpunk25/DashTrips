@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/DashTrips/static/css/main.28491999.css",
-    "main.js": "/DashTrips/static/js/main.5b760af5.js",
+    "main.js": "/DashTrips/static/js/main.e7abc971.js",
     "index.html": "/DashTrips/index.html",
     "main.28491999.css.map": "/DashTrips/static/css/main.28491999.css.map",
-    "main.5b760af5.js.map": "/DashTrips/static/js/main.5b760af5.js.map"
+    "main.e7abc971.js.map": "/DashTrips/static/js/main.e7abc971.js.map"
   },
   "entrypoints": [
     "static/css/main.28491999.css",
-    "static/js/main.5b760af5.js"
+    "static/js/main.e7abc971.js"
   ]
 }
